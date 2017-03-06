@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pomodoro
 A simple calculator made with JavaScript.
 
@@ -5,3 +6,7 @@ A simple calculator made with JavaScript.
 https://farewing.github.io/A-Simple-Calculator/
 
 ![demo](calculator.png)
+=======
+# A-Simple-Calculator
+
+>>>>>>> origin/master
